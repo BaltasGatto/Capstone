@@ -1,0 +1,134 @@
+#palau-flag {
+    height: 500px;
+    width: 800px;
+    background-color: #0099FF;
+    position: relative;
+}
+#palau-flag > div {
+    height: 250px;
+    width: 250px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+    top: 120px;
+    left: 200px;
+}
+#japan-flag {
+    height: 500px;
+    width: 800px;
+    background-color:antiquewhite;
+    position: relative;
+}
+#japan-flag > div { 
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: absolute;
+    top: 125px;
+    left: 250px;
+}
+#ukraine-flag-1 {
+    height: 250px;
+    width: 800px;
+    background-color: blue;
+}
+#ukraine-flag-2 {
+    height: 250px;
+    width: 800px;
+    background-color: yellow;
+}
+#latvia-flag {
+    width: 800px;
+    height: 500px;
+    background-color: #9E3039;
+    position: relative;
+}
+#latvia-1 {
+    width: 800px;
+    height: 150px;
+    background-color: white;
+    position: absolute;
+    top: 175px;
+}
+#sweden {
+    background-color: yellow;
+    width: 800px;
+    height: 500px;
+    position: relative;
+}
+#sweden-1 {
+    background-color: blue;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+}
+#sweden-2 {
+    background-color: blue;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 300px;
+}
+#sweden-3 {
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 400px;
+}
+#sweden-4 {
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    left: 400px;
+    top: 300px;
+}
+#greece-flag {
+    width: 800px;
+    height: 500px;
+    background-color: #0099FF;
+    position: relative;
+}
+#greece-w1 {
+    width: 800px;
+    height: 55.55px;
+    background-color: white;
+    position: relative;
+    top: 55px;
+}
+#greece-w2 {
+    width: 800px;
+    height: 55.55px;
+    background-color: white;
+    position: relative;
+    top: 111px;
+}
+#greece-w3 {
+    width: 800px;
+    height: 55.55px;
+    background-color: white;
+    position: relative;
+    top: 165px;
+}
+#greece-w4 {
+    width: 800px;
+    height: 55.55px;
+    background-color: white;
+    position: relative;
+    top: 215px;
+}
+#greece-f1 {
+    background-color: red;
+    width: 276px;
+    height: 276px;
+    position: absolute;
+    top: 0px;
+}
+.greece-g1 {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
